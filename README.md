@@ -14,11 +14,11 @@
 
 ## 🏹 Qual o objetivo do projeto?
 
-O objetivo desse projeto foi ...
+O objetivo desse projeto foi construir uma RESTful API para um Banco Digital fictício com o desenvolvimento de rotas, intermediários, controladores além da formatação de datas com date-fns.
 
 ## 💻 Como usar?
 
-Basta...
+Para usar você vai precisar de uma IDE (usei o Visual Studio Code) para observar o código e iniciar o projeto com o Nodemon, além do Insomnia para testar as rotas.
 
 ## 🛠️ Ferramentas utilizadas?
 
